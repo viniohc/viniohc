@@ -2,6 +2,8 @@
 
 #### Building modern web applications by day ☼ and side projects by night ☾
 
+[Portfolio](https://github.com/viniohc) • [LinkedIn](https://linkedin.com/in/viniohc)
+
 Full-Stack Developer at [@iiBrasil](https://www.linkedin.com/company/iibrasil/);<br>
 Building web applications with Laravel, Vue.js and modern web technologies;<br>
 
