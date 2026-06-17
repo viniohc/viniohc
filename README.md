@@ -12,7 +12,3 @@ Building web applications with Laravel, Vue.js and modern web technologies;<br>
 * 🌍 Based in Brazil
 * 📦 Interested in open source, developer experience and product development
 * 💬 `ping` me about **Laravel**, **Vue.js**, **PHP**, **JavaScript**, **APIs** and **software architecture**
-
-<p align="start">
-  <img src="https://komarev.com/ghpvc/?username=viniohc&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
